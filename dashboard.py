@@ -3,13 +3,10 @@ import plotly.express as px
 from streamlit_lottie import st_lottie
 from streamlit_timeline import timeline
 import streamlit.components.v1 as components
-from constant import *
 import requests
-import base64
 
 import plotly.graph_objs as go
 import numpy as np
-from PIL import Image
 
 # Path to your header image
 header_path = "productBreakdown.jpg"
