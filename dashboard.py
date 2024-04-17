@@ -7,6 +7,8 @@ import requests
 
 import plotly.graph_objs as go
 import numpy as np
+from PIL import Image
+
 
 # Path to your header image
 header_path = "productBreakdown.jpg"
